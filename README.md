@@ -100,17 +100,17 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 43 Contributions in the Year 2024
+> 🏆 65 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,19 +121,19 @@ const kevin = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-🌆 Daytime                12 commits          ████████░░░░░░░░░░░░░░░░░   30.77 % 
-🌃 Evening                16 commits          ██████████░░░░░░░░░░░░░░░   41.03 % 
-🌙 Night                  8 commits           █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+🌞 Morning                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+🌆 Daytime                14 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+🌃 Evening                34 commits          ██████████████░░░░░░░░░░░   57.63 % 
+🌙 Night                  8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Tuesday                  13 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Wednesday                14 commits          █████████░░░░░░░░░░░░░░░░   35.90 % 
-Thursday                 9 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Friday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Monday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Tuesday                  13 commits          ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Wednesday                14 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Thursday                 10 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Friday                   20 commits          ████████░░░░░░░░░░░░░░░░░   33.90 % 
 Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
@@ -168,7 +168,7 @@ Python                   1 repo              ██████░░░░░�
 
 
 
- Last Updated on 20/12/2024 16:18:30 UTC
+ Last Updated on 21/12/2024 01:36:03 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
