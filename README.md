@@ -145,17 +145,13 @@ Sunday                   39 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Asuncion
 
 💬 Programming Languages: 
-JSON                     19 mins             █████████░░░░░░░░░░░░░░░░   35.79 % 
-TSConfig                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
-JavaScript               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-YAML                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,7 +165,7 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 15/01/2025 01:35:42 UTC
+ Last Updated on 16/01/2025 01:27:46 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
