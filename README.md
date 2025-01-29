@@ -110,8 +110,6 @@ const kevin = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -165,7 +163,7 @@ Python                   1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 28/01/2025 01:27:32 UTC
+ Last Updated on 29/01/2025 01:27:40 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
