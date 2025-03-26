@@ -145,15 +145,13 @@ Sunday                   20 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Asuncion
 
 💬 Programming Languages: 
-Java                     18 mins             ██████████░░░░░░░░░░░░░░░   41.29 % 
-XML                      16 mins             █████████░░░░░░░░░░░░░░░░   37.60 % 
-Other                    9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,7 +164,7 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 25/03/2025 01:45:14 UTC
+ Last Updated on 26/03/2025 01:44:35 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
