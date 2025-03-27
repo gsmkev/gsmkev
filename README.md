@@ -100,8 +100,6 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-78.8%20thousand%20lines%20of%20code-blue)
@@ -118,42 +116,6 @@ const kevin = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                59 commits          ███████████░░░░░░░░░░░░░░   43.70 % 
-🌆 Daytime                44 commits          ████████░░░░░░░░░░░░░░░░░   32.59 % 
-🌃 Evening                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-🌙 Night                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Tuesday                  40 commits          ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Wednesday                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Thursday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Friday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Saturday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Asuncion
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -164,7 +126,7 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 26/03/2025 01:44:35 UTC
+ Last Updated on 27/03/2025 01:44:27 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
