@@ -110,8 +110,6 @@ const kevin = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 154 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -145,13 +143,14 @@ Sunday                   22 commits          ████░░░░░░░�
 🕑︎ Time Zone: UTC
 
 💬 Programming Languages: 
-Python                   10 mins             █████████████████████████   100.00 % 
+Python                   23 mins             ████████████████████████░   95.62 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -164,7 +163,7 @@ Java                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 12/04/2025 01:43:46 UTC
+ Last Updated on 13/04/2025 03:12:39 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
