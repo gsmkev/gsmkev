@@ -1,23 +1,35 @@
 <h1>Hello, i'm kevin 👉🏻 <img src="https://i.imgur.com/8FPFLWB.gif" height="100"></h1>
 <div>
-    <img height="150" src="https://i.imgur.com/vIHPlnH.jpeg" alt="Profile picture" align="left" />
-    <div>
-        <p>📚 <em>CS/CE Student at <a href="https://www.pol.una.py/">FPUNA</a> <img src="https://i.imgur.com/Q6VLyDp.gif" width="65"></em></p>
-            <p>👋🏻 Connect with me on my social networks <img src="https://i.imgur.com/CkTxoTX.gif" width="65"></p>
-            <p>
-                <a href="mailto:gsmkev@gmail.com">
-                <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-                </a>
-                &nbsp;&nbsp;
-                <a href="https://www.linkedin.com/in/gsmkev">
-                <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-                </a>
-                &nbsp;&nbsp;
-                <a href="https://open.spotify.com/user/rlostnjw38yzkrvwq8t3qchym?si=d1673a41fe454606">
-                <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotify logo" />
-                </a>
-            </p>
-    </div>
+    <img height="300" src="https://i.imgur.com/vIHPlnH.jpeg" alt="Profile picture" align="left" />
+    <table>
+      <tr>
+        <td>📚 <em>CS/CE Student at <a href="https://www.pol.una.py/">FPUNA</a></em></td>
+        <td><img src="https://i.imgur.com/Q6VLyDp.gif" width="65"></td>
+      </tr>
+      <tr>
+        <td>🔍 <em>Research Assistant at <a href="https://www.ing.una.py/">FIUNA</a> and <a href="http://artics.com.py/">ArtICS Lab</a></em></td>
+        <td><img src="https://i.imgur.com/Un3pllA.png" width="65"></td>
+      </tr>
+      <tr>
+        <td>👋🏻 Connect with me on my social networks</td>
+        <td><img src="https://i.imgur.com/CkTxoTX.gif" width="65"></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <a href="mailto:gsmkev@gmail.com">
+            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://www.linkedin.com/in/gsmkev">
+            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://open.spotify.com/user/rlostnjw38yzkrvwq8t3qchym?si=d1673a41fe454606">
+            <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="spotify logo" />
+          </a>
+        </td>
+      </tr>
+    </table>
 </div>
 
 
@@ -28,8 +40,17 @@
 ```javascript
 const kevin = {
     pronouns: "He" | "Him",
+    education: "CS/CE Student at FPUNA",
+    currentPositions: [
+        "Research Assistant at FIUNA",
+        "Research Assistant at ArtICS Lab"
+    ],
+    researchProjects: [
+        "AI-powered environmental monitoring using macroinvertebrates as bioindicators",
+        "Decentralized traffic analysis with smart contracts and BlockDAG"
+    ],
     code: ["TypeScript", "Javascript", "Python"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    askMeAbout: ["computer vision", "edge computing", "blockchain", "web dev", "tech research"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
@@ -58,7 +79,8 @@ const kevin = {
         devOps: ["CloudFormation", "Serverless Framework"],
         databases: ["Relational", "NoSQL", "In-memory"],
     },
-    currentFocus: "Just trying to survive my last year of college",
+    strengths: ["Object Detection", "Transfer Learning", "Modern Web Frameworks"],
+    currentFocus: "Applying AI and decentralized tech to real-world environmental and mobility challenges",
     funFact: "I run on coffee and Arctic Monkeys!",
 };
 ```
