@@ -167,16 +167,13 @@ Sunday                   27 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   23 mins             ████████████████████░░░░░   79.89 % 
-Markdown                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -190,7 +187,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2025 02:06:01 UTC
+ Last Updated on 16/06/2025 02:00:01 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
