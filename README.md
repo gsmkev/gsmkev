@@ -122,7 +122,7 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -167,13 +167,16 @@ Sunday                   27 commits          ████░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             ████████████████████████░   95.10 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   12 mins             █████████████░░░░░░░░░░░░   53.91 % 
+VS Code                  10 mins             ████████████░░░░░░░░░░░░░   46.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -187,7 +190,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2025 01:56:51 UTC
+ Last Updated on 18/06/2025 01:56:08 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
