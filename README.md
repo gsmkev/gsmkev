@@ -122,7 +122,7 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-209%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -131,8 +131,6 @@ const kevin = {
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 232 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -192,7 +190,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2025 02:05:14 UTC
+ Last Updated on 23/06/2025 02:03:47 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
