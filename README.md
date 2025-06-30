@@ -122,7 +122,7 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -131,6 +131,8 @@ const kevin = {
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 233 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -165,17 +167,17 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TeX                      2 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-TypeScript               2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-Python                   1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Markdown                 1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+TeX                      2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+TypeScript               2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Python                   1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 11 mins      █████████████████████████   100.00 % 
+Cursor                   9 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 11 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -189,7 +191,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2025 02:07:35 UTC
+ Last Updated on 30/06/2025 02:02:42 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
