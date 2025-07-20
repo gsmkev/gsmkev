@@ -156,6 +156,8 @@ const kevin = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 321 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -211,7 +213,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/07/2025 01:59:19 UTC
+ Last Updated on 20/07/2025 02:19:07 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
