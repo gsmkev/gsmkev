@@ -148,13 +148,15 @@ const kevin = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 332 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -189,18 +191,14 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Gettext Catalog          1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   33.51 % 
-Python                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Markdown                 1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-RMarkdown                51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Gettext Catalog          1 hr 50 mins        ██████████████████████░░░   89.24 % 
+Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 30 mins       █████████████████████████   100.00 % 
+Cursor                   2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 26 mins       ████████████████░░░░░░░░░   62.45 % 
-Linux                    2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.55 % 
+Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -216,7 +214,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2025 02:22:03 UTC
+ Last Updated on 04/08/2025 02:22:02 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
