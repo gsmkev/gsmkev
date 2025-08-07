@@ -146,7 +146,7 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -191,14 +191,17 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Gettext Catalog          1 hr 50 mins        ██████████████████████░░░   89.24 % 
-Python                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Gettext Catalog          1 hr 50 mins        ████████████████████░░░░░   80.80 % 
+Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 4 mins        █████████████████████████   100.00 % 
+Cursor                   2 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 4 mins        ███████████████████████░░   90.54 % 
+Windows                  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -214,7 +217,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2025 02:07:56 UTC
+ Last Updated on 07/08/2025 02:08:27 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
