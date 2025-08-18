@@ -148,7 +148,7 @@ const kevin = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.9%20thousand%20lines%20of%20code-blue)
 
@@ -156,52 +156,14 @@ const kevin = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 332 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-🌆 Daytime                69 commits          ████████░░░░░░░░░░░░░░░░░   31.36 % 
-🌃 Evening                80 commits          █████████░░░░░░░░░░░░░░░░   36.36 % 
-🌙 Night                  55 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Tuesday                  42 commits          █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-Wednesday                28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Friday                   44 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Saturday                 33 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Sunday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-Python                   9 hrs 41 mins       ████████████████████░░░░░   78.03 % 
-TypeScript               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Docker                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Text                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-
-🔥 Editors: 
-Cursor                   12 hrs 24 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    12 hrs 24 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -215,7 +177,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2025 02:04:56 UTC
+ Last Updated on 18/08/2025 02:05:32 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
