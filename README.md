@@ -146,17 +146,15 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 333 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -191,17 +189,17 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   10 hrs 16 mins      ████████████████████░░░░░   79.66 % 
-JavaScript               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Python                   11 hrs 28 mins      ████████████████████░░░░░   79.17 % 
+JavaScript               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+SQL                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-Cursor                   12 hrs 54 mins      █████████████████████████   100.00 % 
+Cursor                   14 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    12 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -217,7 +215,7 @@ Java                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2025 01:41:13 UTC
+ Last Updated on 13/09/2025 01:36:40 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
