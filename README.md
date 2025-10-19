@@ -146,7 +146,7 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -156,11 +156,11 @@ const kevin = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 375 Contributions in the Year 2025
+> 🏆 376 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 18 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -191,17 +191,17 @@ Sunday                   34 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   12 hrs 36 mins      ████████████████░░░░░░░░░   64.14 % 
-HTML                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Bash                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-TeX                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+Python                   11 hrs 58 mins      ████████████████░░░░░░░░░   62.52 % 
+HTML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Bash                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Text                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+TeX                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🔥 Editors: 
-Cursor                   19 hrs 40 mins      █████████████████████████   100.00 % 
+Cursor                   19 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    19 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -217,7 +217,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2025 01:40:53 UTC
+ Last Updated on 19/10/2025 01:57:41 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
