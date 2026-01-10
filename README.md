@@ -203,17 +203,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-TeX                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
+Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+TeX                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 09/01/2026 02:04:48 UTC
+ Last Updated on 10/01/2026 02:00:25 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
