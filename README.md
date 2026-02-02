@@ -146,8 +146,6 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2048%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-267.63%20thousand%20lines%20of%20code-blue?style=flat)
@@ -164,42 +162,6 @@ const kevin = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-🌆 Daytime                92 commits          ████████░░░░░░░░░░░░░░░░░   31.51 % 
-🌃 Evening                99 commits          ████████░░░░░░░░░░░░░░░░░   33.90 % 
-🌙 Night                  81 commits          ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Tuesday                  45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Wednesday                52 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Friday                   57 commits          █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Sunday                   44 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -213,7 +175,7 @@ JavaScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 02:49:34 UTC
+ Last Updated on 02/02/2026 02:38:59 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
