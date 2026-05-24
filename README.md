@@ -146,6 +146,8 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2048%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-434.91%20thousand%20lines%20of%20code-blue?style=flat)
@@ -154,28 +156,64 @@ const kevin = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2026
+> 🏆 28 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 26 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+🌆 Daytime                108 commits         ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+🌃 Evening                131 commits         █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌙 Night                  107 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Tuesday                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Wednesday                56 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Thursday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Friday                   109 commits         ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+Saturday                 54 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Sunday                   44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               14 repos            ███████████░░░░░░░░░░░░░░   43.75 % 
-Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
+Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 
 
 
- Last Updated on 23/05/2026 03:40:33 UTC
+ Last Updated on 24/05/2026 04:03:14 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
