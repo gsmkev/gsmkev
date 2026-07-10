@@ -156,11 +156,11 @@ const kevin = {
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 194 Contributions in the Year 2026
+> 🏆 195 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 29 Public Repositories 
+> 📜 30 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -203,17 +203,17 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████████░░░░░░░░░░░░░   47.06 % 
-Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-TeX                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   45.71 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+TeX                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
 
 
 
 
- Last Updated on 09/07/2026 03:41:47 UTC
+ Last Updated on 10/07/2026 03:43:26 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
