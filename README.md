@@ -146,6 +146,10 @@ const kevin = {
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2023%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.37%20million%20lines%20of%20code-blue?style=flat)
@@ -162,6 +166,48 @@ const kevin = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+🌆 Daytime                371 commits         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+🌃 Evening                565 commits         ██████████░░░░░░░░░░░░░░░   41.36 % 
+🌙 Night                  383 commits         ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Tuesday                  79 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Wednesday                298 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Thursday                 166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Friday                   211 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Saturday                 275 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Sunday                   223 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -175,7 +221,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:51:13 UTC
+ Last Updated on 08/08/2026 01:54:48 UTC
 <!--END_SECTION:waka-->
 
 ### <img src="https://i.imgur.com/VthIaPB.gif" width="50"> &nbsp;&nbsp;In case you're curious, this is what I've been listening to on Spotify lately 
